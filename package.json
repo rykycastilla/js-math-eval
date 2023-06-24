@@ -1,0 +1,14 @@
+{
+  "name": "js-math-eval",
+  "version": "1.0.0",
+  "description": "A library for javascript math evaluation",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc ; node dist/index.js"
+  },
+  "author": "RykyCE",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "5.1.3"
+  }
+}

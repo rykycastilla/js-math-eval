@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "declaration": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "noImplicitReturns": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "skipLibCheck": true
+  }
+}
